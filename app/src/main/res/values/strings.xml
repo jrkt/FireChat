@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FireChat</string>
+    <string name="send_button">Send</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="invite_menu_label">Invite</string>
+    <string name="invitation_message">Please join me for a friendly chat</string>
+    <string name="invitation_cta">Call to action</string>
+    <string name="invitation_title">Friendly Chat Invite</string>
+    <string name="show_profile">Profile</string>
+    <string name="show_online">Online Users</string>
+    <string name="back_menu_label">Back</string>
+    <string name="clear_messages">Clear Messages</string>
+    <string name="reply_label">Reply</string>
+    <string name="label">Label</string>
+</resources>
